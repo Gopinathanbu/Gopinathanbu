@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Gopinathanbu
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on Hackers
-- 📫 How to reach me  agopinath479@gmail.com
+### 👋 Hi, I’m Gopinath A
 
-<!---
-Gopinathanbu/Gopinathanbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 System Administrator with 4+ years of experience  
+- 🧠 Skilled in Windows Deployment, PowerShell, Active Directory, Network Troubleshooting  
+- 🔒 Hands-on with Kali Linux, Parrot OS, BIOS configuration  
+- 🚀 Currently working as Deployment Engineer at HP  
+- 📫 Reach me at: agopinath479@gmail.com
+
+### 🛠️ Tech Stack
+
+- Windows Server | Linux | PowerShell  
+- Active Directory | DHCP | DNS | WSUS  
+- MDT / WDS Deployment | BIOS Tweaking  
+- Git & GitHub for Documentation  
+
+### 📂 Repositories to Check Out
+
+- [PowerShell-Automation](https://github.com/yourrepo)
+- [Windows-Deployment-Guides](https://github.com/yourrepo) 
