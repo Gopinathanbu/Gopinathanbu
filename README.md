@@ -7,7 +7,7 @@
 🌱 Learning more about data structures, backend, and real-world dev practices  
 👯 I’m looking to collaborate on beginner-friendly open-source projects  
 💬 Ask me about **HTML, CSS, JS, Git, Python**  
-📫 Reach me at: your-email@example.com  
+📫 Reach me at:agopinath479@gmail.com  
 ⚡ Fun fact: I started building my dev journey from scratch and I'm aiming for RTCamp placement 😎  
 
 ---
@@ -33,4 +33,4 @@
 ---
 
 ### 🔗 Let's Connect
-[GitHub](https://github.com/Gopinathanbu) • [LinkedIn](#) • [Email](mailto:agopinath479.com)
+[GitHub](https://github.com/Gopinathanbu) • [LinkedIn](#) • [Email](mailto:agopinath479@gmail.com)
