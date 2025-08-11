@@ -22,7 +22,7 @@
 ---
 
 ### 🛠️ Projects
-- [💼 Portfolio Website](https://gopinathanbu.github.io/portfolio-website/)
+- [💼 Portfolio Website][(https://gopinathanbu.github.io/portfolio-website/)](https://github.com/Gopinathanbu/Portfolio-Website)
 - More open-source pull requests coming soon...
 
 ---
