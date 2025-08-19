@@ -6,7 +6,7 @@
 🔭 I’m currently working on building my portfolio and contributing to open-source  
 🌱 Learning more about data structures, backend, and real-world dev practices  
 👯 I’m looking to collaborate on beginner-friendly open-source projects  
-💬 Ask me about **HTML, CSS, JS, Git, Python**  
+💬 Ask me about **HTML, CSS, JS, Git, Wordpress, Python**  
 📫 Reach me at:agopinath479@gmail.com  
 ⚡ Fun fact: I started building my dev journey from scratch and I'm aiming for RTCamp placement 😎  
 
